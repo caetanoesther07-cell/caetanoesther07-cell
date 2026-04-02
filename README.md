@@ -3,7 +3,7 @@
 🎓 Estudante de Sistemas de Informação  
 💻 Foco em desenvolvimento e segurança da informação  
 
-## Tecnologias
+## linguagens
 - C
 - Python
 
